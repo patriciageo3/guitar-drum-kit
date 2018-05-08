@@ -13,6 +13,10 @@ It was created using:
 
 Samples play using mouse click or keyboard press.
 
+## Live Demo
+
+To see the live demo, please [click here](https://patriciageo3.github.io/guitar-drum-kit/).
+
 ## Authors
 
 Patricia Georgescu
